@@ -1,8 +1,6 @@
 # sample-java-maven
 DevOps demo
 
-
-
 Jenkins Pipeline script(Groovy)
 
 node {
